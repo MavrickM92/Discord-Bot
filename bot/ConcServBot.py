@@ -21,10 +21,11 @@ import youtube_dl
 # [!] THIS IS NOT FINISHED [!]
 # I plan on working more on this. Right now, it is very flawed.
 # You must install FFmpeg and make it a Environment Variable for your user, under 'Path'
+# 'ffmpeg.exe', 'ffplay.exe', and 'ffprobe.exe', must be placed in the same folder as the Python file
 ############################################################################
 
 
-COUNCIL_TOKEN = 'NotShowingHereSorry:)' # Bot's token, just not showing here sorry! :)
+COUNCIL_TOKEN = 'NotShowingHereSorry:)' # Bot's token. Add your own bot's token.
 client = commands.Bot(command_prefix='.') # Bot Prefix
 client.remove_command('help') # Remove premade command 'help' to implement my own
 
