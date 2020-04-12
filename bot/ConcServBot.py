@@ -20,6 +20,7 @@ import youtube_dl
 
 # [!] THIS IS NOT FINISHED [!]
 # I plan on working more on this. Right now, it is very flawed.
+# I know for a fact that this code is not very clean
 # You must install FFmpeg and make it a Environment Variable for your user, under 'Path'
 # 'ffmpeg.exe', 'ffplay.exe', and 'ffprobe.exe', must be placed in the same folder as the Python file
 ############################################################################
