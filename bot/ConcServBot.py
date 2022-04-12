@@ -12,8 +12,8 @@ import youtube_dl
 
 # Name: Council's Servant
 # Date Initiated: 2020-02-04
-# Date Last Modified: 2020-04-12
-# Programmer Name: Mavrick. M (ClamorCattus)
+# Date Last Modified: 2022-03-12
+# Programmer Name: Mavrick. M 
 # Language Used: Python (discord.py rewrite)
 # Description: A bot for music, welcoming members and role assignment
 #based on reactions.
